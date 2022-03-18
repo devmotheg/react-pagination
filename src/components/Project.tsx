@@ -32,8 +32,6 @@ const Project = () => {
 		keepPreviousData: true,
 	});
 
-	console.log(status);
-
 	return (
 		<>
 			<h1 className="relative py-4 mx-auto mb-12 text-4xl font-bold capitalize w-fit after:w-2/4 after:h-1 after:absolute after:bottom-0 after:left-2/4 after:-translate-x-1/2 after:bg-sky-600">
